@@ -3,7 +3,8 @@
 - **Город:** Санкт-Петербург
 - **Email:linkalbebra@gmail.com**
 
-![Uploading image.png…]()
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/84c5388b-f357-4cfa-87f4-a95cfaf727b6" />
+
 
 ## Образование
 
